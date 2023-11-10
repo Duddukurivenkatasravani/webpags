@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+     <html>
+     <head>
+       <title>function</title>
+      </head>
+     <body bgcolor="aque">
+     <h1>function in javascript</h1>
+      </body>
+      </html>
+
+       
+        
+      
+      
