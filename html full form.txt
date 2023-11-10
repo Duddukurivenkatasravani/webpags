@@ -1,0 +1,4 @@
+differences:
+HTMLmeans: hyper text markup lauguge
+URLmeans:uniform resource locator
+brower software program which is used to show webpags
