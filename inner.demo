@@ -1,0 +1,12 @@
+<!DOCYPE HTML>
+   <html>
+     <head>
+        <title> different ways to display contenet on web pags</title>
+      </head>
+      <body>
+        <p>welcome friends </p>
+        <script type ="text/javascript">
+           document.getelementbyid("demo").inner="programing tutrals":
+         </script>
+         </body>
+         </html>
