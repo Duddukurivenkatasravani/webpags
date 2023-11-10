@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+   <html>
+     <head>
+        <title>different ways to display content on web page<\title>
+     <\head>
+     <body>
+        <script type="text /javascript">
+            alert("programing tutorials in telugu");
+        <\script>
+        <\body>
+        <\html>>    
+
